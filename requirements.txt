@@ -1,4 +1,5 @@
 confluent-kafka
+kakfa-python
 Faker
 psycopg2
 pandas

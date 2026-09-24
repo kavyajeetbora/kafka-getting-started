@@ -12,7 +12,7 @@ producer = SerializingProducer(producer_config)
 
 url = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-11.parquet"
 columns = ['PULocationID', 'DOLocationID', 'trip_distance', 'total_amount', 'tpep_pickup_datetime']
-df = pd.read_parquet(url, columns=columns).head(1000)
+df = pd.read_parquet(url, columns=columns).tail(1000)
 
 
 ## CASE 1: One Record
