@@ -1,3 +1,7 @@
+## Video Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/B7CwU_tNYIE/maxresdefault.jpg)](https://youtu.be/B7CwU_tNYIE)
+
 ## Debug Kakfa using CLI
 
 ```bash
