@@ -1,2 +1,7 @@
 confluent-kafka
 Faker
+psycopg2
+pandas
+pyarrow
+ipywidgets
+notebook
